@@ -1,0 +1,2 @@
+# mineswipper
+varite company task
